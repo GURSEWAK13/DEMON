@@ -1,0 +1,23 @@
+Ethereum 2.0, also known as Serenity, is the next major upgrade to the 
+Ethereum blockchain. The upgrade aims to address some of the scalability, 
+security, and energy consumption issues that have been identified in the original Ethereum network.
+One of the most significant changes in Ethereum 2.0 is the switch from a Proof of Work (PoW)
+consensus mechanism to a Proof of Stake (PoS) consensus mechanism. PoS is a more energy-efficient 
+nd secure mechanism for validating transactions and generating new blocks. Instead of miners 
+competing to solve complex mathematical problems, validators are chosen based on the amount 
+of cryptocurrency they hold and are incentivized to act in the best interest of the network.
+Another key feature of Ethereum 2.0 is the introduction of shard chains. These are parallel 
+chains that allow the network to process more transactions at the same time, increasing the
+overall throughput of the network. Each shard chain will be able to process transactions 
+independently, and the data on one shard will not be directly visible to another
+Ethereum 2.0 will also introduce a new Ethereum Execution Environment (EEE), which
+will allow developers to write smart contracts in different programming languages. 
+This will make it easier for developers to create complex smart contracts that can be used in a variety of applications.
+Other improvements in Ethereum 2.0 include a new account model, which will allow users 
+to have multiple accounts under a single private key, and the introduction of a new beacon chain that will help coordinate the shard chains.
+The transition to Ethereum 2.0 is being done in phases, with the initial phase 
+launching in December 2020. The first phase, known as Phase 0, introduced the beacon 
+chain and the PoS consensus mechanism. The subsequent phases will introduce 
+shard chains and other features, with the final phase expected to be completed in 2022.
+Overall, Ethereum 2.0 is expected to significantly improve the scalability, 
+security, and usability of the Ethereum blockchain, making it a more efficient and effective platform for building decentralized applications.
